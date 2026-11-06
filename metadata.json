@@ -1,0 +1,6 @@
+{
+  "name": "Tutoring Sales & Student Hours Tracker",
+  "description": "Dashboard for tracking tutoring sales, student session hours, tutor payments, and profit analytics with Google Drive and Sheets integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
